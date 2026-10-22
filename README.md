@@ -1,2 +1,0 @@
-# car-java-oop
-JAVA OOP GROUP ASSIGNMENT
